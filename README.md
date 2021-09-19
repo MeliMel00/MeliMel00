@@ -13,5 +13,5 @@ Je m'appel Melvin, j'ai :one: :nine: ans. Parisien et apprenti dev.
 
 ## Passion  and hobies: 
 
-*Sport :  :ski: :muscle:
-*Film / Serie :  :movie_camera:
+* Sport :  :ski: :muscle:
+* Film / Serie :  :movie_camera:
