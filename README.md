@@ -1,5 +1,5 @@
 ### MeliMel00 👋
-![GitHub Logo](profil.jpg =250x)
+<img src="profil.jpg" alt="profil" width="200"/>
 
 ## Competence:
 
