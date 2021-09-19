@@ -1,7 +1,9 @@
 ### MeliMel00 👋
-![GitHub Logo](profil.jpg)
+![GitHub Logo](profil.jpg =250x)
 
 ## Competence:
 
-* Item 1
+*   
 * Item 2
+
+hahahaha
