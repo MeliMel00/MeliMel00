@@ -8,7 +8,7 @@ Je m'appel Melvin, j'ai :one: :nine: ans. Parisien et apprenti dev.
 
 * HTML / CSS :white_check_mark:
 * PHP / JS / :arrows_counterclockwise:
-* FRONT > BACK :stuck_out_tongue_winking_eye:
+* FullStack
 
 ## Exemple of my Work:
 * https://portfolio-melvin-chevallier.vercel.app/
